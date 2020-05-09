@@ -11,9 +11,3 @@ for (const familiar of miFamiliaEdu) {
 miFamilia.forEach(familiar => {
     console.log(familiar);
 });
-for (const key in object) {
-    if (object.hasOwnProperty(key)) {
-        const element = object[key];
-        
-    }
-}
