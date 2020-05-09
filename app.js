@@ -7,3 +7,6 @@ console.log(miFamiliaEdu);
 for (const familiar of miFamiliaEdu) {
     console.log(familiar);
 }
+miFamilia.forEach(familiar => {
+    console.log(familiar);
+});
