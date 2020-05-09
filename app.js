@@ -1,5 +1,6 @@
 //Estoy creado las bases de nuestro proyecto
 let miFamilia = ['Gloria','Indira','Victor','Luis','Zulay','Yelena','Henry','Yuraima'];
+let miFamilia = ['Gloria','Indira','Victor','Luis','Hernan','Pablo'];
 console.log(miFamilia);
 console.log('Poco a poco mis amigas y amigos');
 let miFamiliaEdu = ['Jose','Alicia','Nicolas','Edu'];
